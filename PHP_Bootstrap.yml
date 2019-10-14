@@ -1,0 +1,12 @@
+name: School Managementsystem
+desc: this project is build uing bootstrap-php-javascipt-jsp. 
+site: http://localhost/sample/sms
+tags:
+# Note: these are tags categorizing the project, not issue labels.
+- php bootstrap
+- admin
+-** 
+- localhost
+upforgrabs:
+ name: help needed
+  link:https://github.com/shravyakodli/Hack.md/new/master
